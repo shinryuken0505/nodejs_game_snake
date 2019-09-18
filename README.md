@@ -1,7 +1,7 @@
-<h1>1.Run code:</h1>
+<h2>1.Run code:</h2>
 #node index.js
 
-<h1>2.Open Browser:</h1>
+<h2>2.Open Browser:</h2>
 http://localhost:3000
 
-<h1>3.Enjoy it!</h1>
+<h2>3.Enjoy it!</h2>
