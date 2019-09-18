@@ -1,4 +1,4 @@
-<h2>1.Open Terminal and Run code:</h2>
+<h2>1.Open Terminal(Command mode) and Run code:</h2>
 #node index.js
 
 <h2>2.Open Browser:</h2>
